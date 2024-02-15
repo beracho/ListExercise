@@ -1,0 +1,14 @@
+D:\projects\Portfolio\NinjaProjects\ReactCourse\ListExercise\bin\Debug\net8.0\ListExercise.exe
+D:\projects\Portfolio\NinjaProjects\ReactCourse\ListExercise\bin\Debug\net8.0\ListExercise.deps.json
+D:\projects\Portfolio\NinjaProjects\ReactCourse\ListExercise\bin\Debug\net8.0\ListExercise.runtimeconfig.json
+D:\projects\Portfolio\NinjaProjects\ReactCourse\ListExercise\bin\Debug\net8.0\ListExercise.dll
+D:\projects\Portfolio\NinjaProjects\ReactCourse\ListExercise\bin\Debug\net8.0\ListExercise.pdb
+D:\projects\Portfolio\NinjaProjects\ReactCourse\ListExercise\obj\Debug\net8.0\ListExercise.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\Portfolio\NinjaProjects\ReactCourse\ListExercise\obj\Debug\net8.0\ListExercise.AssemblyInfoInputs.cache
+D:\projects\Portfolio\NinjaProjects\ReactCourse\ListExercise\obj\Debug\net8.0\ListExercise.AssemblyInfo.cs
+D:\projects\Portfolio\NinjaProjects\ReactCourse\ListExercise\obj\Debug\net8.0\ListExercise.csproj.CoreCompileInputs.cache
+D:\projects\Portfolio\NinjaProjects\ReactCourse\ListExercise\obj\Debug\net8.0\ListExercise.dll
+D:\projects\Portfolio\NinjaProjects\ReactCourse\ListExercise\obj\Debug\net8.0\refint\ListExercise.dll
+D:\projects\Portfolio\NinjaProjects\ReactCourse\ListExercise\obj\Debug\net8.0\ListExercise.pdb
+D:\projects\Portfolio\NinjaProjects\ReactCourse\ListExercise\obj\Debug\net8.0\ListExercise.genruntimeconfig.cache
+D:\projects\Portfolio\NinjaProjects\ReactCourse\ListExercise\obj\Debug\net8.0\ref\ListExercise.dll
